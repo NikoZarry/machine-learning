@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-learning-F7931E?logo=scikit-learn)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 # Machine Learning
 
 Personal notes, notebooks, and projects from self-studying machine learning alongside a Mechanical Engineering degree at UCF. Primary resource is *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (3rd edition) by Aurélien Géron.
@@ -44,5 +49,5 @@ jupyter notebook
 
 ---
 
-*Hidekel Irizarry | Mechanical Engineering @ UCF*
+*Hidekel Irizarry | Mechanical Engineering @ UCF*  
 *Book: Hands-On Machine Learning, 3rd Ed. — Aurélien Géron*
